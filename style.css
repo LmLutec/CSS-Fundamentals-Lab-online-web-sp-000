@@ -6,6 +6,6 @@ body {
 
  #details {
   background-color:red;
-  align-content: center;
+  float: left;
 } 
 
