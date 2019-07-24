@@ -33,6 +33,7 @@ h1 {
   text-align: center;
 }
 
-p#featured-property {
-
+#featured-property {
+  padding: 70px 0;
+  text-align: center;
 }
