@@ -7,8 +7,7 @@ body {
  #details {
   background-color:red;
   text-align: center;
-  display: inline-block;
-  
+  float: right;
 } 
 
 img {
