@@ -6,6 +6,7 @@ body {
 
  #details {
   background-color:red;
+  display: block;
 } 
 
 img {
