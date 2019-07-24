@@ -6,7 +6,7 @@ body {
 
  #details {
   background-color:red;
-  float: left;
-  align-content: center;
+  text-align: center; 
+  
 } 
 
