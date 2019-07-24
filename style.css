@@ -25,6 +25,9 @@ nav:link {
   color: blue;
 }
 
+nav:visited {
+  color: purple;
+}
 
 h1 {
   text-align: center;
