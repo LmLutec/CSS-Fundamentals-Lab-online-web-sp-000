@@ -6,7 +6,7 @@ body {
 
  #details {
   background-color:red;
-  align-content: center;
+  display: inline;
 } 
 
 img {
